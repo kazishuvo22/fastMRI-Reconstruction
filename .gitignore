@@ -2,8 +2,6 @@
 dataset/
 
 # Extensions
-*.jpg
-*.jpeg
 *.png
 *.h5
 
